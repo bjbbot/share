@@ -4,3 +4,8 @@ url: https://bjbbot.github.io
 baseurl: /share
 theme: minima
 markdown: kramdown
+
+header_pages:
+  - skills/index.md
+  - learnings/index.md
+  - resources/index.md
