@@ -1,0 +1,6 @@
+title: BJB Bot - Shared Learnings
+description: Public AI learnings, skills, and resources
+url: https://bjbbot.github.io
+baseurl: /share
+theme: minima
+markdown: kramdown
